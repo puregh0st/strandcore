@@ -1,4 +1,4 @@
-Omni Core 
+Strand Core 
 =========================================
 
-For the Omnicore reference client please see the official upstream repository maintained by the Omnilayer team [https://github.com/OmniLayer/omnicore](https://github.com/OmniLayer/omnicore).
+For the Strandcore reference client please see the official upstream repository maintained by the Strandlayer team [https://github.com/StrandLayer/omnicore](https://github.com/puregh0st/strandcore/).
